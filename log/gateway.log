@@ -1,0 +1,27 @@
+2017/02/05 19:16:24 main.go:41: Api Gateway Listening at http://localhost:8000
+2017/02/05 19:16:29 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:29 ApiHandler.go:22: GET
+2017/02/05 19:16:38 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:38 ApiHandler.go:22: GET
+2017/02/05 19:16:40 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:40 ApiHandler.go:22: GET
+2017/02/05 19:16:41 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:41 ApiHandler.go:22: GET
+2017/02/05 19:16:46 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:46 ApiHandler.go:22: GET
+2017/02/05 19:16:47 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:47 ApiHandler.go:22: GET
+2017/02/05 19:16:47 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:47 ApiHandler.go:22: GET
+2017/02/05 19:16:48 ApiHandler.go:21: /api/Todo
+2017/02/05 19:16:48 ApiHandler.go:22: GET
+2017/02/05 19:17:13 ApiHandler.go:21: /api/todo
+2017/02/05 19:17:13 ApiHandler.go:22: POST
+2017/02/05 19:17:13 ApiHandler.go:72: HTTP 401: "Unauthourized"
+2017/02/05 19:17:13 ApiHandler.go:73: HTTP %d: %q 401 Unauthourized
+2017/02/05 19:17:28 ApiHandler.go:21: /api/todo
+2017/02/05 19:17:28 ApiHandler.go:22: POST
+2017/02/05 19:17:28 ApiHandler.go:72: HTTP 401: "Unauthourized"
+2017/02/05 19:17:28 ApiHandler.go:73: HTTP %d: %q 401 Unauthourized
+2017/02/05 19:17:39 ApiHandler.go:21: /api/Todo
+2017/02/05 19:17:39 ApiHandler.go:22: GET
