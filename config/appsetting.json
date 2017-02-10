@@ -14,29 +14,10 @@
      "connectionStrings": [
       {
         "name": "default",
-        "connectionString": "",
+        "connectionString": "server=MSSQLSERVER1;user id=vimkumar;password=**;database=User2;log=1;encrypt=disable;connection timeout=120",
         "providerName": "System.IO"
-      },
-      {
-        "name": "Warp.Gateway.Model.WarpIdentity.*",
-        "connectionString": "Data Source=sjc04d1wrpdb01.sdlc.teslamotors.com;Initial Catalog=WarpUser;Integrated Security=True",
-        "providerName": "System.Data.SqlClient"
-      },
-      {
-        "name": "GO_Gateway1",
-        "connectionString": "server=sjc04d1wrpdb01.sdlc.teslamotors.com;port=1433;user id=teslamotors\\vimkumar;password=**;database=WarpUser;log=63;encrypt=disable;connection timeout=120",
-        "providerName": "System.Data.SqlClient"
-      },
-        {
-        "name": "GO_Gateway2MSSQLSERVER1",
-        "connectionString": "server=LUS-CND6337TRS\\MSSQLSERVER1;user id=teslamotors\\vimkumar;password=**;database=WarpUser2;log=1;encrypt=disable;connection timeout=120",
-        "providerName": "System.Data.SqlClient"
-      },
-      {
-        "name": "GO_GatewayLocalhost",
-        "connectionString": "server=localhost;port=1433;user id=teslamotors\\vimkumar;password=**;database=UnitTesting;log=63",
-        "providerName": "System.Data.SqlClient"
       }
+      
     ]
   
   
